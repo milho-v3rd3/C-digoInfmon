@@ -32,13 +32,13 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="../../../Desktop/Structs infmon.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="../../../Desktop/aula12.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="D:/Dev/raylib/TRABALHO INFMON/TRABALHO INFMON.cbp" />
+		<Unit filename="Structs infmon.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula12.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
